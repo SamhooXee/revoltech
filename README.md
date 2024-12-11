@@ -1,4 +1,10 @@
-[[_TOC_]]
+# Table of Contents
+- [普通系列(?)](#普通系列)
+- [AMAZING YAMAGUCHI](#amazing-yamaguchi)
+- [MOVIE REVO](#movie-revo)
+- [CHARACTER REVO](#character-revo)
+- [SCI-FI REVOLTECH](#sci-fi-revoltech)
+- [Reference](#reference)
 
 # 普通系列(?)
 
